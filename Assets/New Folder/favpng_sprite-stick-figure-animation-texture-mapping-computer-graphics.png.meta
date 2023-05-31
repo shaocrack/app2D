@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 60ab9630a65b7bc4d82733f52872d0fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356bb8bb0d9e17c4f96786d505a65598
+      internalID: 1969711492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72c15ad0e848e648a6f20fef2cd9e04
+      internalID: 40477995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 570
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5227377ea33b4eb669f1f6abf7b46
+      internalID: 2142967321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1c32dfe10a1d542aee1900e15b0067
+      internalID: -115340401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 471
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd8b2c7a8e647648a63a68f64b695fd
+      internalID: -238111577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 471
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8c3c02365bbd41b78200abbd8c495
+      internalID: -775461286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9906eb1d6ab514da110c0ffb51f7ef
+      internalID: -609887263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 372
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ed6c69e5619f4da3cfc8be86d0cbe
+      internalID: -783827916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 372
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bbb1949fe9c1e42bd68d206ea65a10
+      internalID: 828424731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 372
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fa77fc90d7a814ea2a381b2d9cdd60
+      internalID: 404066289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d5183ac780d44181f5b73bca70ee8
+      internalID: -1646847330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 273
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b356b54ea214a33478e9461e1fbc1a05
+      internalID: 1874875567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 273
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4859ccc8494448932f2d2964d97c4
+      internalID: 1790956927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 273
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65300d29038715d44bf57647500b353e
+      internalID: 322699711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 273
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1284d940193fd234eb435f24af2d4e53
+      internalID: 411415152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59abf8e5840069947a9e3da15b2188a4
+      internalID: 997342095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 174
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf9a28f0bfd1e41aba6e5320cb1da1
+      internalID: -1621069611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 174
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aa620bba49a7743aa5c87f5e8451fd
+      internalID: 1267462255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_18
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 174
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4483751becdb3c74fa76905ffad23b28
+      internalID: 2011351062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 174
+        width: 145
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4826fa4ed0e4b4da1738c457ff52c1
+      internalID: -386177632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_0: 1969711492
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_1: 40477995
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_10: -1646847330
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_11: 1874875567
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_12: 1790956927
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_13: 322699711
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_14: 411415152
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_15: 997342095
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_16: -1621069611
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_17: 1267462255
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_18: 2011351062
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_19: -386177632
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_2: 2142967321
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_3: -115340401
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_4: -238111577
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_5: -775461286
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_6: -609887263
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_7: -783827916
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_8: 828424731
+      favpng_sprite-stick-figure-animation-texture-mapping-computer-graphics_9: 404066289
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

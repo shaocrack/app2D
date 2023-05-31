@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: e92f692b7eb8fb5408d5103e3dde0e74
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1803
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df1cd2ddc9dfe43915a6aa57a47488
+      internalID: 1475367526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1803
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61aa9146c587af468f98fc7d24a4fc8
+      internalID: -1278839082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1803
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04f5e5aaaf66df44a580804767f7bb1
+      internalID: 536484571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1558
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a1f84fe4c8b6045b0f4c65525dab1b
+      internalID: 896235040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1558
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2f535d16d301c479a010817a75b1d3
+      internalID: 583242902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1558
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55f357a203b7f488cb08c5dfaeda35
+      internalID: -674847919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1313
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f66a3b50c11294da1d1b2a38d38f56
+      internalID: 1579317817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1313
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b87c337fc57444ca33527f69d7fcd2
+      internalID: 791089518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1313
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148c6dae7fb72664ba97993e35dfa377
+      internalID: -2131001770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed55b14c8a26043868a7e99634a23c
+      internalID: -1794724248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1068
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb6db63b874f248ada0ee3d3b3d9ae
+      internalID: 1314407449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1068
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa39458d00be594b8fe9b3f8268dc98
+      internalID: 1128659565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa6c0d3dc80c54aa2bb3294c2dd627
+      internalID: -1270464815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 823
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff353d537a66ac2459ef30be3a3b5eea
+      internalID: -961526722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 823
+        width: 320
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec046a8c364efab49b9e36cbbd3256ae
+      internalID: -487587885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_0: 1475367526
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_1: -1278839082
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_10: 1314407449
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_11: 1128659565
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_12: -1270464815
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_13: -961526722
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_14: -487587885
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_2: 536484571
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_3: 896235040
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_4: 583242902
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_5: -674847919
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_6: 1579317817
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_7: 791089518
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_8: -2131001770
+      favpng_2d-computer-graphics-sprite-animation-shader-cel-shading_9: -1794724248
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
